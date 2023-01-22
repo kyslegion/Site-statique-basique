@@ -5,7 +5,7 @@
 @import url("./desktop/desktop.css")(min-width: 992px);
 
 body{
-  background-color: red;
+  /* background-color: red; */
   max-width: 1400px;
   margin: auto;
   display: flex;
